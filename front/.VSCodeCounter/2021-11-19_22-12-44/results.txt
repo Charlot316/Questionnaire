@@ -1,0 +1,93 @@
+Date : 2021-11-19 22:12:44
+Directory : c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front
+Total : 52 files,  23498 codes, 172 comments, 655 blanks, all 24325 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     13,759 |          0 |          2 |     13,761 |
+| Vue.js     |         32 |      9,066 |         95 |        544 |      9,705 |
+| JavaScript |         11 |        424 |         72 |         46 |        542 |
+| CSS        |          3 |        168 |          4 |         34 |        206 |
+| Markdown   |          2 |         52 |          0 |         25 |         77 |
+| HTML       |          1 |         29 |          1 |          4 |         34 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                  |         52 |     23,498 |        172 |        655 |     24,325 |
+| public                                                                                                             |          2 |         69 |          1 |          4 |         74 |
+| src                                                                                                                |         44 |      9,645 |        171 |        623 |     10,439 |
+| src\assets                                                                                                         |          3 |        168 |          4 |         34 |        206 |
+| src\assets\css                                                                                                     |          3 |        168 |          4 |         34 |        206 |
+| src\components                                                                                                     |         14 |      2,464 |         16 |        155 |      2,635 |
+| src\components\Questionnaire                                                                                       |          5 |        759 |          5 |        104 |        868 |
+| src\components\QuestionnaireEditor                                                                                 |          7 |      1,400 |          0 |         45 |      1,445 |
+| src\plugins                                                                                                        |          4 |         61 |         13 |         14 |         88 |
+| src\router                                                                                                         |          1 |        131 |         12 |          6 |        149 |
+| src\store                                                                                                          |          1 |         36 |          0 |          1 |         37 |
+| src\utils                                                                                                          |          2 |        138 |         45 |         21 |        204 |
+| src\views                                                                                                          |         17 |      6,589 |         79 |        385 |      7,053 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                           | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\README.en.md                                              | Markdown   |         25 |          0 |         12 |         37 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\README.md                                                 | Markdown   |         27 |          0 |         13 |         40 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\babel.config.js                                           | JavaScript |          5 |          0 |          1 |          6 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\package-lock.json                                         | JSON       |     13,659 |          0 |          1 |     13,660 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\package.json                                              | JSON       |         60 |          0 |          1 |         61 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\public\index.html                                         | HTML       |         29 |          1 |          4 |         34 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\public\table.json                                         | JSON       |         40 |          0 |          0 |         40 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\App.vue                                               | Vue.js     |         13 |          0 |          4 |         17 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\assets\css\color-dark.css                             | CSS        |         29 |          0 |          1 |         30 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\assets\css\icon.css                                   | CSS        |          4 |          0 |          0 |          4 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\assets\css\main.css                                   | CSS        |        135 |          4 |         33 |        172 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\Affix.vue                                  | Vue.js     |        124 |          9 |          1 |        134 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\Header.vue                                 | Vue.js     |        181 |          2 |          5 |        188 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\QuestionnaireEditor\CheckboxEditor.vue     | Vue.js     |        256 |          0 |          6 |        262 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\QuestionnaireEditor\MultiplefillEditor.vue | Vue.js     |        252 |          0 |          9 |        261 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\QuestionnaireEditor\RadioEditor.vue        | Vue.js     |        256 |          0 |          6 |        262 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\QuestionnaireEditor\RateEditor.vue         | Vue.js     |        173 |          0 |          6 |        179 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\QuestionnaireEditor\Setting.vue            | Vue.js     |        242 |          0 |          6 |        248 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\QuestionnaireEditor\SimplefillEditor.vue   | Vue.js     |        152 |          0 |          6 |        158 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\QuestionnaireEditor\TitleEditor.vue        | Vue.js     |         69 |          0 |          6 |         75 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\Questionnaire\Checkbox.vue                 | Vue.js     |        165 |          0 |         23 |        188 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\Questionnaire\Multiplefill.vue             | Vue.js     |        113 |          0 |         15 |        128 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\Questionnaire\Radio.vue                    | Vue.js     |        165 |          0 |         24 |        189 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\Questionnaire\Rate.vue                     | Vue.js     |        135 |          0 |         21 |        156 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\components\Questionnaire\Simplefill.vue               | Vue.js     |        181 |          5 |         21 |        207 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\main.js                                               | JavaScript |         45 |          2 |          3 |         50 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\plugins\axios.js                                      | JavaScript |         27 |         13 |          8 |         48 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\plugins\cookie.js                                     | JavaScript |         20 |          0 |          2 |         22 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\plugins\element.js                                    | JavaScript |         13 |          0 |          4 |         17 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\plugins\iconfont.js                                   | JavaScript |          1 |          0 |          0 |          1 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\router\index.js                                       | JavaScript |        131 |         12 |          6 |        149 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\store\index.js                                        | JavaScript |         36 |          0 |          1 |         37 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\utils\htmlToPdf.js                                    | JavaScript |        113 |         42 |         16 |        171 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\utils\request.js                                      | JavaScript |         25 |          3 |          5 |         33 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\Analysis.vue                                    | Vue.js     |      1,107 |          2 |         18 |      1,127 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\AnswerCompleted.vue                             | Vue.js     |         49 |          0 |          9 |         58 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\Answering.vue                                   | Vue.js     |        544 |          6 |         34 |        584 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\ExamResult.vue                                  | Vue.js     |        266 |         11 |         13 |        290 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\Home.vue                                        | Vue.js     |         36 |          0 |          3 |         39 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\HomePage.vue                                    | Vue.js     |        127 |          3 |          4 |        134 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\Login.vue                                       | Vue.js     |        191 |          4 |          3 |        198 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\Manage.vue                                      | Vue.js     |      1,036 |          9 |         18 |      1,063 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\ModelSelection.vue                              | Vue.js     |        296 |          3 |          9 |        308 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\QuestionnaireEditor.vue                         | Vue.js     |      1,731 |          8 |         68 |      1,807 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\Register.vue                                    | Vue.js     |        221 |          7 |          3 |        231 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\Test.vue                                        | Vue.js     |         31 |          0 |          4 |         35 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\TestDrag.vue                                    | Vue.js     |         75 |         13 |          4 |         92 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\TestIp.vue                                      | Vue.js     |         46 |          9 |        160 |        215 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\TypeSelection.vue                               | Vue.js     |        336 |          0 |          8 |        344 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\UserInformation.vue                             | Vue.js     |        352 |          4 |         17 |        373 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\src\views\VotingResult.vue                                | Vue.js     |        145 |          0 |         10 |        155 |
+| c:\Users\CharlotFirth\Desktop\study\2021Autumn\小学期\front\vue.config.js                                             | JavaScript |          8 |          0 |          0 |          8 |
+| Total                                                                                                              |            |     23,498 |        172 |        655 |     24,325 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
